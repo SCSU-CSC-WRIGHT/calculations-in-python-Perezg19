@@ -10,7 +10,7 @@ weight_kilo = int(input("Enter your weight in kilograms: "))
 meter_height = int(input("Enter your height in meters: "))
 bmi_calc = int(weight_kilo/(meter_height^2))
 print(f"Your BMI is: {bmi_calc}.")
-bool = (f({bmi_calc}>(18.)))
+# bool = (f({bmi_calc}>(18.)))
 
 # This is my lab 3
 temp_cels = int(input("Enter your temperature in celsius: "))
